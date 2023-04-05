@@ -6,3 +6,4 @@
 [schede madri](componenti/schede_madri.md)
 
 ## Periferiche
+[tastiere](periferiche/tastiere.md)  
