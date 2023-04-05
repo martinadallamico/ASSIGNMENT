@@ -2,3 +2,4 @@
 2043684
 
 [Processori](processori.md)
+[schede madri](schede_madri.md)
